@@ -67,6 +67,7 @@ I'm continuously expanding my development skills and focusing on building a stro
 
 - 💼 LinkedIn: "Abdullah Zaheer" (https://www.linkedin.com/in/abdullahzaheer-pk)
 - 💻 GitHub: "Git-byAbdullah" (https://github.com/Git-byAbdullah)
+- ✉️ Email: iamabdullahzaheer@gmail.com
 
 I'm always interested in learning, building, and connecting with fellow developers and technology enthusiasts.
 
