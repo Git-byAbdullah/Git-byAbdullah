@@ -1,72 +1,79 @@
-👋 Hi, I'm Abdullah Zaheer
+# 👋 Hi, I'm Abdullah Zaheer
 
-Computer Science Student | Aspiring Software Developer
+**Computer Science Student | Python & C++ Developer | HTML & CSS**
 
-I'm a Computer Science student who enjoys building software and learning through practical projects.
+I'm a Computer Science student focused on building practical software projects and strengthening my programming fundamentals through hands-on development.
 
-I work primarily with C++ and Python, and I also have experience with HTML, CSS, Git, and GitHub.
+I enjoy working with **Python and C++**, while also building responsive web projects with **HTML and CSS**.
 
-I'm currently focused on strengthening my programming fundamentals, building real-world projects, and growing as a software developer.
+## 👨‍💻 About Me
 
-👨‍💻 About Me
+* 🎓 Computer Science student
+* 🐍 Building projects with Python
+* 💻 Developing with C++
+* 🌐 Creating responsive websites with HTML & CSS
+* 🔧 Using Git and GitHub for version control and project management
+* 🧩 Interested in software development and problem solving
+* 🚀 Learning by building practical projects
 
-- 🎓 Computer Science student
-- 💻 Interested in software development and problem solving
-- 🐍 Currently working with Python and C++
-- 🌐 Building projects with HTML and CSS
-- 🔧 Using Git and GitHub to manage and document my work
-- 🚀 Learning by building practical projects
-- 📚 Continuously strengthening my programming fundamentals
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+**Languages**
 
-- C++
-- Python
+* Python
+* C++
 
-Web Technologies
+**Web Technologies**
 
-- HTML5
-- CSS3
+* HTML5
+* CSS3
 
-Tools & Technologies
+**Tools**
 
-- Git
-- GitHub
-🚀 Featured Projects
+* Git
+* GitHub
 
-Here are some of the projects I've built while learning and improving my development skills.
+## 🚀 Featured Projects
 
-🍔 Dheri Eats
+### 🏦 Bank Management System
 
-A restaurant website built with HTML and CSS, focused on creating a clean and user-friendly web interface.
+A console-based banking management system built with Python, featuring account creation, login, deposits, withdrawals, balance checking, and transaction history.
 
-Tech: HTML5, CSS3
+**Tech:** Python
 
-🧮 Calculator App
+### 🌤️ Weather App
 
-A web-based calculator project built while exploring how Python can work with web technologies.
+A Python application that retrieves real-time weather information for cities using the wttr.in API and the Requests library.
 
-Tech: Python, Flask, HTML, CSS, JavaScript
+**Tech:** Python, Requests, API
 
-🎮 Hand Connect
+### 🍔 Dheri Eats
 
-A simple interactive game project built as one of my early programming projects.
+A responsive fast-food restaurant website designed and developed with HTML5 and CSS3, featuring a menu, restaurant information, and responsive layouts.
 
-Tech: HTML, CSS, JavaScript
-📚 Currently Learning
+**Tech:** HTML5, CSS3
 
-I'm continuously expanding my development skills and focusing on building a stronger foundation in software development.
+### 📚 Library Management System
 
-- 🧠 Strengthening C++ and Python
-- 🧩 Improving Data Structures & Algorithms
-- 🗄️ Learning more about Databases
-- 🔧 Building better software projects and development workflows
-- 📖 Practicing problem solving through coding
-🤝 Connect With Me
+A console-based Library Management System built with C++, demonstrating object-oriented programming concepts and in-memory data management.
 
-- 💼 LinkedIn: "Abdullah Zaheer" (https://www.linkedin.com/in/abdullahzaheer-pk)
-- 💻 GitHub: "Git-byAbdullah" (https://github.com/Git-byAbdullah)
-- ✉️ Email: iamabdullahzaheer@gmail.com
+**Tech:** C++, OOP
 
-I'm always interested in learning, building, and connecting with fellow developers and technology enthusiasts.
+## 📚 Currently Learning
+
+* 🧠 Strengthening Python and C++
+* 🧩 Improving Data Structures & Algorithms
+* 🗄️ Learning more about Databases
+* 🔨 Building larger and more practical projects
+* 📖 Improving problem-solving skills
+* 🔧 Developing better software development workflows
+
+## 🤝 Connect With Me
+
+* 💼 **LinkedIn:** [Abdullah Zaheer](https://www.linkedin.com/in/abdullahzaheer-pk)
+* 💻 **GitHub:** [Git-byAbdullah](https://github.com/Git-byAbdullah)
+* ✉️ **Email:** [iamabdullahzaheer@gmail.com](mailto:iamabdullahzaheer@gmail.com)
+
+---
+
+⭐ *Learning by building, improving through practice, and growing one project at a time.*
