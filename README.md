@@ -70,6 +70,3 @@ I'm continuously expanding my development skills and focusing on building a stro
 - ✉️ Email: iamabdullahzaheer@gmail.com
 
 I'm always interested in learning, building, and connecting with fellow developers and technology enthusiasts.
-
-
-- Object-Oriented Programming (OOP)
