@@ -52,6 +52,7 @@ A Python application that retrieves real-time weather information for cities usi
 A responsive fast-food restaurant website designed and developed with HTML5 and CSS3, featuring a menu, restaurant information, and responsive layouts.
 
 **Tech:** HTML5, CSS3
+**Live Demo:** [dheri-eats.vercel.app](https://dheri-eats.vercel.app/)
 
 ### 📚 Library Management System
 
